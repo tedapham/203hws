@@ -2,6 +2,8 @@
 
 R codes for Berkeley Statistics for Data Science
 
-##HW7
+###HW5
+Joint Probabilities and Covariance
+###HW7
 Maximum Likelihood 
 
